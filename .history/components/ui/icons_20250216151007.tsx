@@ -5,7 +5,7 @@ import {
   Github,
   Mail,
   LucideProps,
-  type LucideIcon,
+  type Icon as LucideIcon,
 } from "lucide-react";
 
 export type Icon = LucideIcon;
